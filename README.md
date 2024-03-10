@@ -1,2 +1,2 @@
-# CONSOL_UYGULAMASI
+# CONSOLE UYGULAMASI
 first project using for, if, else, elif...
