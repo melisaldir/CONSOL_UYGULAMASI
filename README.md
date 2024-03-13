@@ -13,4 +13,4 @@ Uygulamayı açtığımızda bu ekran bizi karşılamakta.
 <br>
 <img src="proje_fotoları/hesapmakinesitoplama.png" alt="Hesap makinesi toplama işlemi">
 <br>
-Karşımıa çıkan hesap makinesinden de istediğimiz işlemi numaralarına göre seçip istediğimiz işlemi yaptırabiliriz.
+Karşımıza çıkan hesap makinesinden de istediğimiz işlemi numaralarına göre seçip istediğimiz işlemi yaptırabiliriz.
