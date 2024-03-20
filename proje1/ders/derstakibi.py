@@ -1,0 +1,11 @@
+def dtmenu():
+    print("╔══════════════════════════╗")
+    print("║DERS TAKİBİ               ║")
+    print("║1-Konu Anlatımı Videoları ║")
+    print("║2-Konu Anlatımı PDF'leri  ║")
+    print("║3-Test Kitapları          ║")
+    print("║4-Soru Çözümleri          ║")
+    print("║5-Ders Programı           ║")
+    print("║6-Çıkış (e)               ║")
+    print("║  seçiminiz nedir?        ║")
+    print("╚══════════════════════════╝")

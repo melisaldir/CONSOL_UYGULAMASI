@@ -1,0 +1,12 @@
+def sdmenu():
+    print("╔══════════════════════════╗")
+    print("║SICAKLIK DÖNÜŞTÜRME       ║")
+    print("║1-Celsius-Fahrenheit      ║")
+    print("║2-Celsius-Kelvin          ║")
+    print("║3-Celsius-Planck          ║")
+    print("║4-Fahrenheit-Kelvin       ║")
+    print("║5-Fahrenheit-Planck       ║")
+    print("║6-Kelvin-Planck           ║")
+    print("║7-Çıkış (e)               ║")
+    print("║  seçiminiz nedir?        ║")
+    print("╚══════════════════════════╝")

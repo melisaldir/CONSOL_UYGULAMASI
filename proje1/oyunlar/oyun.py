@@ -1,0 +1,11 @@
+def oyunmenu():
+    print("╔══════════════════════════╗")
+    print("║OYUNLAR                   ║")
+    print("║1-Yılan                   ║")
+    print("║2-Adam Asmaca             ║")
+    print("║3-Taş Kağıt Makas         ║")
+    print("║4-İsim Şehir Hayvan       ║")
+    print("║5-Sayı Tahmin Oyunu       ║")
+    print("║6-Çıkış (e)               ║")
+    print("║  seçiminiz nedir?        ║")
+    print("╚══════════════════════════╝")
