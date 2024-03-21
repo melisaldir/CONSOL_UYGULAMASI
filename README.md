@@ -1,5 +1,5 @@
 # CONSOLE UYGULAMASI
-## Yaptığım ilk proje
+## Vektörel kursta yaptığım 1. proje
 <hr>
 <img src="proje_fotoları/anamenu.png" alt="Ana Menü Ekranı">
 Uygulamayı açtığımızda bu ekran bizi karşılamakta.
