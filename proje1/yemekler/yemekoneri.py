@@ -25,6 +25,5 @@ def menumenu():
     if secim == "5" :
         tatli = ["Kalburabastı","Sütlaç","Islak Kek","Meyve Salatası"]
         print(tatli)
-
     if secim == "6" :
         print("anamenüye yönlendirildiniz")

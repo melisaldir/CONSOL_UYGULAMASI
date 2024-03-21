@@ -7,6 +7,7 @@ import sıcaklık.sicaklikdonustur
 import takvim.takvimaylar
 import carpimtablo.carpımtablosu
 import ders.derstakibi
+import yemekler.yemekoneri
 def anamenu():
     print("╔═══════════════════╗")
     print("║   VEKTOREL DERS   ║")
@@ -18,7 +19,7 @@ def anamenu():
     print("║6-Ders Takibi      ║")
     print("║7-Çarpım Tablosu   ║")
     print("║8-Takvim           ║")
-    print("║9-Döviz Uygulaması ║")
+    print("║9-Yemek Önerileri  ║")
     print("║10-Sıcaklık Çevirme║")
     print("║11-Çıkış (e)       ║")
     print("║  seçiminiz nedir? ║")
@@ -49,7 +50,7 @@ def anamenu():
         takvim.takvimaylar.takvimmenu()
         anamenu()
     if secim =="9":
-        hesaplamalar.harfnot.harfnotu()
+        yemekler.yemekoneri.menumenu()
         anamenu()
     if secim =="10":
         sıcaklık.sicaklikdonustur.sdmenu()
