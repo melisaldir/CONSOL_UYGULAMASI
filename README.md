@@ -31,7 +31,7 @@ Uygulamayı açtığımızda bu ekran bizi karşılamakta.
 <img src="proje_fotoları/takvim.png" alt="Takvim ekranı">
 8 numaraya basarak takvime ulaşabiliyoruz!
 <br>
-<img src="proje_fotoları/yemekonerileri.png" alt="Yemek önerileri ekranı">
+<img src="proje_fotoları/yemekonerisi.png" alt="Yemek önerileri ekranı">
 9 numaraya basarak yemek önerilerine ulaşabiliyoruz! Karşımıza çıkan seçeneklerden hangisiyle ilgili öneri/örnek istiyorsak o numarayı seçtiğimizde karşımıza seçilen seçeneğin örneklerini çıkarmaktadır. Örneğin 1 numaralı çorba önerilerini yukarıdaki fotoğraftan görebilirsiniz.
 <br>
 <img src="proje_fotoları/sicaklikcevirme.png" alt="Sıcaklık çevirme ekranı">
