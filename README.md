@@ -2,7 +2,7 @@
 ## Vektörel kursta yaptığım 1. proje
 <hr>
 <video width="300px" height="300px" controls>
-    <source src="proje_videosu/console_uygulaması.MOV">
+    <source src="proje_videosu/console_uygulaması.mp4">
     </video>
 <img src="proje_fotoları/anamenu.png" alt="Ana Menü Ekranı">
 Uygulamayı açtığımızda bu ekran bizi karşılamakta.
@@ -27,8 +27,8 @@ Uygulamayı açtığımızda bu ekran bizi karşılamakta.
 <img src="proje_fotoları/derstakibi.png" alt="Ders takibi ekranı">
 6 numaraya basarak ders takibi ekranına ulaşabiliyoruz! 
 <br>
-<img src="proje_fotoları/carpimtablosu1.png" alt="Çarpım tablosu ekranı1">
-<img src="proje_fotoları/carpimtablosu2.png" alt="Çarpım tablosu ekranı2">
+<img src="proje_fotoları/carpimtablosu1.png" height="300" alt="Çarpım tablosu ekranı1">
+<img src="proje_fotoları/carpimtablosu2.png" height="300" alt="Çarpım tablosu ekranı2">
 7 numaraya basarak çarpım tablosuna ulaşabiliyoruz! 1'den 10'a kadar olan sayıların hepsini gruplayıp çarpım şeklinde göstermektedir.
 <br>
 <img src="proje_fotoları/takvim.png" alt="Takvim ekranı">
