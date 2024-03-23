@@ -1,6 +1,9 @@
 # CONSOLE UYGULAMASI
 ## Vektörel kursta yaptığım 1. proje
 <hr>
+<video width="300px" height="300px" controls>
+    <source src="proje_videosu/console_uygulaması.MOV">
+    </video>
 <img src="proje_fotoları/anamenu.png" alt="Ana Menü Ekranı">
 Uygulamayı açtığımızda bu ekran bizi karşılamakta.
 <br>
