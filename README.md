@@ -1,10 +1,9 @@
 # CONSOLE UYGULAMASI
 ## Vektörel kursta yaptığım 1. proje
 <hr>
-Alttaki videoyu izleyerek konsol uygulamasının kısa bir anlatıma ulaşabilirsiniz. Detayları için aşağıdaki fotoğraflardan yararlanabilirsiniz.
+Alttaki linke tıklayarak konsol uygulamasının kısa bir anlatım videosuna ulaşabilirsiniz. Detayları için aşağıdaki fotoğraflardan yararlanabilirsiniz.
 <br>
-<a href="https://youtu.be/4lfQR8qWxmY">
-</a>
+<a href="https://youtu.be/4lfQR8qWxmY?si=pJr0Mwaz_XIkCP9E">BURYA TIKLAYARAK VİDEOYA ULAŞABİLİRSİNİZ!</a>
 <br>
 <img src="proje_fotoları/anamenu.png" alt="Ana Menü Ekranı">
 Uygulamayı açtığımızda bu ekran bizi karşılamakta.
