@@ -3,9 +3,8 @@
 <hr>
 Alttaki videoyu izleyerek konsol uygulamasının kısa bir anlatıma ulaşabilirsiniz. Detayları için aşağıdaki fotoğraflardan yararlanabilirsiniz.
 <br>
-<video width="300px" height="300px" controls>
-    <source src="proje_videosu/console_uygulaması.mp4">
-</video>
+<a href="https://youtu.be/4lfQR8qWxmY">
+</a>
 <br>
 <img src="proje_fotoları/anamenu.png" alt="Ana Menü Ekranı">
 Uygulamayı açtığımızda bu ekran bizi karşılamakta.
